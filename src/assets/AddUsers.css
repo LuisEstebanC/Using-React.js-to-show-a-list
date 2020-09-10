@@ -1,0 +1,28 @@
+.card-body {
+    background: #c31432;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #240b36, #c31432);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #240b36, #c31432);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 22px 22px 22px 22px;
+    -moz-border-radius: 22px 22px 22px 22px;
+    -webkit-border-radius: 22px 22px 22px 22px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 4px 10px 21px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 10px 21px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 4px 10px 21px 0px rgba(0, 0, 0, 0.75);
+    margin-top: 19%;
+}
+
+#addTitle {
+    color: beige;
+}
+
+#nameLabel {
+    color: beige;
+}
+
+#userNameLabel {
+    color: beige;
+}

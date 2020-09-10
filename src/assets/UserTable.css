@@ -1,0 +1,17 @@
+.userTable {
+    background: #dfe6e9;
+    margin-top: 10%;
+    border-radius: 9px 9px 9px 9px;
+    -moz-border-radius: 9px 9px 9px 9px;
+    -webkit-border-radius: 9px 9px 9px 9px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 4px 10px 21px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 10px 21px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 4px 10px 21px 0px rgba(0, 0, 0, 0.75);
+}
+
+#title {
+    margin-top: 6%;
+    margin-bottom: 6%;
+    margin-left: 35%;
+}
